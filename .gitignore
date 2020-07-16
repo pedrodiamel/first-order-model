@@ -1,3 +1,11 @@
+
+vox-adv-cpk.pth.tar
+vox-cpk.pth.tar
+cms.txt
+
+out
+datasets
+
 /.vscode
 __pycache__
 /venv
