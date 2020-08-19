@@ -7,6 +7,7 @@ INPUTVIDEO='datasets/vdo/acc_style_crop.mp4'
 OUTPUT='out/crop_style_'$NAME'.mp4'
 
 #vox-adv-cpk.pth.tar
+#--cpu
 
 python3 demo.py \
     --config config/vox-256.yaml \
